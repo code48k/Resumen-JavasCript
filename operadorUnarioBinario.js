@@ -1,0 +1,16 @@
+// TERMINOS UNARIO, BINARIO, OPERANDO
+
+// ANTES DE CONTINUAR, COMPRENDAMOS LA TERMINOLOGÍA COMÚN.
+
+// UN OPERANDO ES A LO QUE SE APLICAN A LOS OPERADORES. POR EJEMPLO, EN LA MULTIPLICACIÓN DE '5 * 2' HAY DOS OPERANDOS: EL OPERANDO IZQUIERDO ES '5' Y EL OPERANDO DERECHO ES '2'. A VECES, LA GENTE LOS LLAMA ARGUMENTOS EN LUGAR DE OPERANDOS, PERO LA FORMA CORRECTA ES LLAMARLOS COMO OPERANDOS.
+
+// UN OPERADOR ES UNARIO SI TIENE UN SOLO OPERANDO. POR EJEMPLO, LA NEGACIÓN UNARIA '-' INVIERTE EL SIGNO DE UN NÚMERO.
+
+let x1 = 1;
+x1 = -x1; // -1, se aplicó negación unaria
+console.log(x1);
+
+// ------------------------------------------------------------------------------------------------------------------------
+
+let x2 = 1, y2 = 7;
+console.log(y2 - x2); // 2, binario negativo resta valores
