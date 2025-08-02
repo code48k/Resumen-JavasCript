@@ -6,7 +6,6 @@
 
 // PERO SI SE APLICA EL + BINARIO A UNA CADENA, LOS UNE (CONCATENA).
 
-
 let str = "my" + "string";
 console.log(str); // 'mystring' pero si se aplica el + binario a una cadena, los une(concatena)
 
